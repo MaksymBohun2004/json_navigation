@@ -12,6 +12,8 @@ Usage:
 3. If you have entered 1, the navigation will begin, if not, you will have two choices again:
 <img width="631" alt="Знімок екрана 2022-02-16 о 14 31 51" src="https://user-images.githubusercontent.com/92430278/154265163-4b3a9678-df65-40cf-babd-ab7c47af95cb.png">
 After making the choice and choosing the Twitter account, the navigation will begin. 
+
 4. If your file is a dictinary, you will see all available keys and be able to choose which to inspect. If it's a list, you will be informed about its length and get to choose the index of the element that you want to inspect. If the object you chose is a list or a dictinary, the process will repeat itself!
 <img width="631" alt="Знімок екрана 2022-02-16 о 14 36 56" src="https://user-images.githubusercontent.com/92430278/154265913-d6dc5cbf-3b2f-401e-8880-22b2c25ad629.png">
+
 5. Note that you can go to the beggining of the program's work at any point, just input "-1"!
